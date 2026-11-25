@@ -9,6 +9,4 @@ Open any of the six fictional plumbing website concepts below:
 5. [Fieldline Plumbing](https://bermyboystechsolutions.github.io/gombey-plumbing-demo-previews/field/)
 6. [Harborline Plumbing](https://bermyboystechsolutions.github.io/gombey-plumbing-demo-previews/grid/)
 
-Also available: [Gombey Client Hub prototype](https://bermyboystechsolutions.github.io/gombey-client-portal-preview/).
-
 These are sample designs using fictional businesses; their forms do not send real requests.
